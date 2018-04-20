@@ -1,0 +1,31 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: About
+  product: About
+  version: Updated:2018/04/21
+  folders:
+
+  - title: About Me
+    output: web,pdf
+    folderitems:
+    - title: p1
+      url: 
+      output: pdf
+
+    - title: About This Site
+      url: 
+      output: pdf
+
+        subfolders:
+              - title: 
+                output: web
+                subfolderitems:
+
+                - title: My experience with personal blog
+                  url: /tag_formatting.html
+                  output: web
+
+                - title: Tips to use this blog
+                  url: /tag_navigation.html
+                  output: web
