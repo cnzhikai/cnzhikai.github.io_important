@@ -22,7 +22,7 @@ entries:
       
 
 
-
+entries:
 - title: Sidebar
   levels: one
   folders:
@@ -50,7 +50,7 @@ entries:
       output: web
       
 
-
+entries:
 - title: Sidebar
   levels: one
   folders:
@@ -62,7 +62,7 @@ entries:
 
 
 
-
+entries:
 - title: Sidebar
   levels: one
   folders:
