@@ -18,11 +18,6 @@ entries:
       url: /friends_links.html
       output: web
 
-      
-      
-
-
-entries:
 - title: Sidebar
   levels: one
   folders:
@@ -48,9 +43,7 @@ entries:
     - title: 其他
       url: /others.html
       output: web
-      
 
-entries:
 - title: Sidebar
   levels: one
   folders:
@@ -60,9 +53,6 @@ entries:
     folderitems:
     - 
 
-
-
-entries:
 - title: Sidebar
   levels: one
   folders:
@@ -83,12 +73,6 @@ entries:
       url: /vlsi_cad_layout.html
       output: web
       
-      
-      
-      
-      
-      
-entries:
 - title: Sidebar
   levels: one
   folders:
@@ -115,22 +99,3 @@ entries:
 - title: Sidebar
   levels: one
   folders:
-
-  - title: Projects
-    output: web
-    folderitems:
-    - title: Spice
-      url: /spice.html
-      output: web
-    - title: Verilog/VHDL
-      url: /verilog.html
-      output: web
-    - title: Cadence
-      url: /cadence.html
-      output: web
-    - title: Web
-      url: /web.html
-      output: web
-    - title: Soft Coding
-      url: /soft_coding.html
-      output: web
