@@ -65,30 +65,7 @@ entries:
       url: /vlsi_cad_layout.html
       output: web
       
-  - title: a
-    output: web
-    folderitems:
 
-    - title: Spice
-      url: /spice.html
-      output: web
-
-    - title: Verilog/VHDL
-      url: /verilog_vhdl.html
-      output: web
-      
-    - title: Cadence
-      url: /cadence.html
-      output: web
-      
-    - title: Web
-      url: /web.html
-      output: web     
-      
-     - title: Soft Coding
-      url: /soft_coding.html
-      output: web       
-      
   - title: Research
     output: web
     folderitems:
