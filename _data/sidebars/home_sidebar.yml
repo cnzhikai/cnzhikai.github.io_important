@@ -6,7 +6,6 @@ entries:
   folders:
 
   - title: About
-    url: /aboutme.html
     output: web
     folderitems:
     - About Me
