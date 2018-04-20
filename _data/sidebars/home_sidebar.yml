@@ -15,7 +15,7 @@ entries:
       url: /about_this_site.html
       output: web, pdf
 
-  - title: 博客(中文)
+  - title: 博客( 中文)
     output: web, pdf
     folderitems:
 
@@ -74,3 +74,27 @@ entries:
       url: /research_on_sheet_resistance.html
       output: web
    
+  - title: Project
+    output: web
+    folderitems:
+
+    - title: Spice
+      url: /spice.html
+      output: web
+
+    - title: Verilog/VHDL
+      url: /verilog_vhdl.html
+      output: web
+      
+    - title: Cadence
+      url: /cadence.html
+      output: web
+      
+    - title: Web
+      url: /web.html
+      output: web     
+      
+    - title: Soft Coding
+      url: /soft_coding.html
+      output: web       
+      
