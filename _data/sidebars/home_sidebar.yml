@@ -11,6 +11,9 @@ entries:
     - title: News
       url: /news.html
       output: web
+          - title: News
+            url: /news.html
+            output: web
     - title: Theme instructions
       url: /mydoc_introduction.html
       output: web
