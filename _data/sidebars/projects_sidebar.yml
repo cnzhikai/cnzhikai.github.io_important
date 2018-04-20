@@ -1,0 +1,63 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Projects
+  product: Projects
+  version: Updated:2018/04/21
+  folders:
+
+  - title: Spice
+    output: web,pdf
+    folderitems:
+    - title: p1
+      url: 
+      output: pdf
+
+    - title: p2
+      url: 
+      output: pdf
+
+  - title: Verilog/VHDL
+    output: web, pdf
+    folderitems:
+
+    - title: p1
+      url: /p2_landing_page.html
+      output: web
+
+  - title: Cadence
+    output: web, pdf
+    folderitems:
+
+    - title: P1
+      url: 
+      output: web, pdf
+
+    - title: P2
+      url: 
+      output: web, pdf
+
+  - title: Web
+    output: web, pdf
+    folderitems:
+
+    - title: P1
+      url: 
+      output: web, pdf
+
+    - title: P2
+      url: 
+      output: web, pdf
+
+  - title: Soft Coding
+    output: web, pdf
+    folderitems:
+
+    - title: P1
+      url: 
+      output: web, pdf
+
+    - title: P2
+      url: 
+      output: web, pdf
+
