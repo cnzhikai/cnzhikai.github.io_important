@@ -15,7 +15,7 @@ entries:
       url: /about_this_site.html
       output: web, pdf
 
-  - title: 博客（中文）
+  - title: 博客(中文)
     output: web, pdf
     folderitems:
 
@@ -39,7 +39,7 @@ entries:
       url: /others_cn.html
       output: web, pdf
       
-  - title: Blog(English)
+  - title: Blog( English)
     output: web
     folderitems:
 
@@ -49,24 +49,51 @@ entries:
     output: web
     folderitems:
 
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
+    - title: Writing in the Sciences
+      url: /writing_in_the_sciences.html
       output: web
 
-      subfolders:
-      - title: Tag archive pages
-        output: web
-        subfolderitems:
+    - title: Understanding Research Methods
+      url: /understanding_research_methods.html
+      output: web
+      
+    - title: Operating Systems
+      url: /operating_systems.html
+      output: web
+      
+    - title: VLSI CAD - Layout
+      url: /vlsi_cad_layout.html
+      output: web
+      
+  - title: Projects
+    output: web
+    folderitems:
 
-        - title: Formatting pages
-          url: /tag_formatting.html
-          output: web
+    - title: Spice
+      url: /spice.html
+      output: web
 
-        - title: Navigation pages
-          url: /tag_navigation.html
-          output: web
+    - title: Verilog/VHDL
+      url: /verilog_vhdl.html
+      output: web
+      
+    - title: Cadence
+      url: /cadence.html
+      output: web
+      
+    - title: Web
+      url: /web.html
+      output: web     
+      
+     - title: Soft Coding
+      url: /soft_coding.html
+      output: web       
+      
+  - title: Research
+    output: web
+    folderitems:
 
-        - title: Content types pages
-          url: /tag_content_types.html
-          output: web
-
+    - title: Research Measurement of Sheet-resistance
+      url: /research_on_sheet_resistance.html
+      output: web
+   
