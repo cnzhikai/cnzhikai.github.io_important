@@ -6,7 +6,7 @@ entries:
   version: Updated:2018/04/21
   folders:
 
-  - title: Spice
+  - title: Writing in the Sciences
     output: web,pdf
     folderitems:
     - title: p1
@@ -17,7 +17,7 @@ entries:
       url: 
       output: pdf
 
-  - title: Verilog/VHDL
+  - title: Understanding Research Methods
     output: web, pdf
     folderitems:
 
@@ -25,7 +25,8 @@ entries:
       url: /p2_landing_page.html
       output: web
 
-  - title: Cadence
+
+  - title: Operating Systems
     output: web, pdf
     folderitems:
 
@@ -37,19 +38,7 @@ entries:
       url: 
       output: web, pdf
 
-  - title: Web
-    output: web, pdf
-    folderitems:
-
-    - title: P1
-      url: 
-      output: web, pdf
-
-    - title: P2
-      url: 
-      output: web, pdf
-
-  - title: Soft Coding
+  - title: VLSI CAD - Layout
     output: web, pdf
     folderitems:
 
