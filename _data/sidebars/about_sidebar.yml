@@ -7,25 +7,20 @@ entries:
   folders:
 
   - title: About Me
-    output: web,pdf
+    output: web
     folderitems:
     - title: p1
       url: 
-      output: pdf
+      output: web
 
-    - title: About This Site
-      url: 
-      output: pdf
+  - title: About This Site
+    output: web
+    folderitems:
 
-      subfolders:
-      - title: 
-        output: web
-        subfolderitems:
+    - title: My experience with personal blog
+      url: /tag_formatting.html
+      output: web
 
-      - title: My experience with personal blog
-        url: /tag_formatting.html
-        output: web
-
-      - title: Tips to use this blog
-        url: /tag_navigation.html
-        output: web
+    - title: Tips to use this blog
+      url: /tag_navigation.html
+      output: web
