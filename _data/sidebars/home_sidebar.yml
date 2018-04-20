@@ -8,10 +8,10 @@ entries:
   - title: About
     output: web
     folderitems:
-    - About Me
+    - title: About Me
       url: /aboutme.html
       output: web
-    - About This Site
+    - title: About This Site
       url: /about_this_site.html
       output: web
 ################################################################
