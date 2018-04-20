@@ -39,8 +39,8 @@ entries:
       output: web
 ################################################################
 - title: Sidebar
-  levels: one
-  folders:
+levels: one
+folders:
 
   - title: Blog(English)
     output: web
