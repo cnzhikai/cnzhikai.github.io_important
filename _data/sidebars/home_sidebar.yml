@@ -1,10 +1,5 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
-entries:
-- title: Sidebar
-  levels: one
-  folders:
-
   - title: About
     output: web
     folderitems:
@@ -17,10 +12,6 @@ entries:
     - title: Friends Links
       url: /friends_links.html
       output: web
-
-- title: Sidebar
-  levels: one
-  folders:
 
   - title: 博客（中文）
     output: web
@@ -44,18 +35,10 @@ entries:
       url: /others.html
       output: web
 
-- title: Sidebar
-  levels: one
-  folders:
-
   - title: Blog(English)
     output: web
     folderitems:
     - 
-
-- title: Sidebar
-  levels: one
-  folders:
 
   - title: Courses
     output: web
@@ -73,10 +56,6 @@ entries:
       url: /vlsi_cad_layout.html
       output: web
       
-- title: Sidebar
-  levels: one
-  folders:
-
   - title: Projects
     output: web
     folderitems:
