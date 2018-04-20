@@ -17,15 +17,15 @@ entries:
       url: 
       output: pdf
 
-        subfolders:
-              - title: 
-                output: web
-                subfolderitems:
+      subfolders:
+      - title: 
+        output: web
+        subfolderitems:
 
-                - title: My experience with personal blog
-                  url: /tag_formatting.html
-                  output: web
+      - title: My experience with personal blog
+        url: /tag_formatting.html
+        output: web
 
-                - title: Tips to use this blog
-                  url: /tag_navigation.html
-                  output: web
+      - title: Tips to use this blog
+        url: /tag_navigation.html
+        output: web
