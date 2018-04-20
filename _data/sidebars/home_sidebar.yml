@@ -15,7 +15,7 @@ entries:
       url: /about_this_site.html
       output: web
 ################################################################
-entries:
+
 - title: Sidebar
   levels: one
   folders:
@@ -39,7 +39,7 @@ entries:
       url: /others_cn.html
       output: web
 ################################################################
-entries:
+
 - title: Sidebar
   levels: one
   folders:
@@ -49,7 +49,7 @@ entries:
     folderitems:
     - 
 ################################################################      
- entries:
+
  - title: Sidebar
    levels: one
    folders:
@@ -73,7 +73,7 @@ entries:
       url: /software.html
       output: web
 ################################################################
- entries:
+
  - title: Sidebar
    levels: one
    folders:
