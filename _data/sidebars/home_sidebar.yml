@@ -5,94 +5,18 @@ entries:
   levels: one
   folders:
 
-  - title: About
+  - title: Products
     output: web
     folderitems:
-    - title: About Me
-      url: /aboutme.html
+    - title: News
+      url: /news.html
       output: web
-    - title: About This Site
-      url: /about_this_site.html
+    - title: Theme instructions
+      url: /mydoc_introduction.html
       output: web
-################################################################
-
-- title: Sidebar
-  levels: one
-  folders:
-
-  - title: 博客（中文）
-    output: web
-    folderitems:
-    - title: 生活
-      url: /life_cn.html
+    - title: Product 1
+      url: /p1_landing_page.html
       output: web
-    - title: 旅行
-      url: /travel_cn.html
+    - title: Product 2
+      url: /p2_landing_page.html
       output: web
-    - title: 书影
-      url: /book_and_movie_cn.html
-      output: web
-    - title: 社会
-      url: /society_cn.html
-      output: web
-    - title: 其他
-      url: /others_cn.html
-      output: web
-################################################################
-
-- title: Sidebar
-  levels: one
-  folders:
-
-  - title: Blog(English)
-    output: web
-    folderitems:
-    - 
-################################################################      
-
-- title: Sidebar
-  levels: one
-  folders:
-
-  - title: Projects
-    output: web
-    folderitems:
-    - title: Spice
-      url: /hspice.html
-      output: web
-    - title: Verilog
-      url: /verilog.html
-      output: web
-    - title: Cadence
-      url: /cadence.html
-      output: web
-    - title: Web
-      url: /web.html
-      output: web
-    - title: Software
-      url: /software.html
-      output: web
-
-
-################################################################
-
- - title: Sidebar
-   levels: one
-   folders:
-
-  - title: Courses
-    output: web
-    folderitems:
-    - title: Writing in the Sciences
-      url: /writing_in_the_sciences.html
-      output: web
-    - title: Understanding Research Methods
-      url: /understanding_research_methods.html
-      output: web
-    - title: Operating Systems
-      url: /operating_systems.html
-      output: web
-    - title: VLSI CAD - Layout
-      url: /vlsi_cad_layout.html
-      output: web
-################################################################
