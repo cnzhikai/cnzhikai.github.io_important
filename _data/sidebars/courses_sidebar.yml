@@ -1,0 +1,55 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: 
+  product: Courses
+  version: Updated:2018/04/21
+  folders:
+
+  - title: Writing in the Sciences
+    output: web
+    folderitems:
+
+    - title: P1
+      url: /tag_formatting.html
+      output: web
+
+    - title: P2
+      url: /tag_navigation.html
+      output: web
+      
+  - title: Understanding Research Methods
+    output: web
+    folderitems:
+
+    - title: P1
+      url: /tag_formatting.html
+      output: web
+
+    - title: P2
+      url: /tag_navigation.html
+      output: web
+      
+   - title: Operating Systems
+    output: web
+    folderitems:
+
+    - title: P1
+      url: /tag_formatting.html
+      output: web
+
+    - title: P2
+      url: /tag_navigation.html
+      output: web  
+      
+  - title: VLSI CAD - Layout
+    output: web
+    folderitems:
+
+    - title: P1
+      url: /tag_formatting.html
+      output: web
+
+    - title: P2
+      url: /tag_navigation.html
+      output: web
