@@ -1,11 +1,11 @@
 topnav:
 - title: Topnav
   items:
-    - title: 博客(中文)
-      url: /cn_blogs.html
+    - title: 首页(Homepage)
+      url: /news.html
       
-    - title: Blog(English)
-      url: /en_blogs.html
+    - title: 文章归档(Archives)
+      url: /news_archive.html
 
     - title: Courses
       url: /courses.html
