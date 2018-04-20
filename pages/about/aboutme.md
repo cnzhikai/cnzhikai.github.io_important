@@ -1,10 +1,10 @@
 ---
-title: About me (Product 1)
-keywords: sample
-summary: "This is just a sample topic..."
-sidebar: product1_sidebar
+title: About Me
+keywords: 
+summary: "Hey, welcome to my website :)"
+sidebar: 
 permalink: aboutme.html
-folder: product1
+folder: about
 ---
 
-HHHHHHHHHHHHHHHHHHHHH
+Hello, I am Zhikai Huang, now a senior student from Xi'an Jiaotong University.
