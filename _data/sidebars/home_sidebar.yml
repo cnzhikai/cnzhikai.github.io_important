@@ -1,34 +1,51 @@
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: Website Full Contents
+  version: .
   folders:
-  - title: Overview
+  - title: About
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: About Me
+      url: /about_me.html
       output: web, pdf
 
-  - title: Release Notes
+    - title: About This Site
+      url: /about_this_site.html
+      output: web, pdf
+
+  - title: 博客（中文）
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: 生活
+      url: /life_cn.html
       output: web, pdf
 
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
+    - title: 书影
+      url: /book_movie_cn.html
       output: web, pdf
 
-  - title: Tag archives
+    - title: 旅行
+      url: /travel_cn.html
+      output: web, pdf
+      
+    - title: 评论
+      url: /comments_cn.html
+      output: web, pdf
+      
+    - title: 其他
+      url: /others_cn.html
+      output: web, pdf
+      
+  - title: Blog(English)
+    output: web
+    folderitems:
+
+    - 
+          
+  - title: Courses
     output: web
     folderitems:
 
@@ -52,3 +69,4 @@ entries:
         - title: Content types pages
           url: /tag_content_types.html
           output: web
+
