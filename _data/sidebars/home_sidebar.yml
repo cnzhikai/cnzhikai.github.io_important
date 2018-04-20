@@ -50,14 +50,14 @@ entries:
     - 
 ################################################################      
 
- - title: Sidebar
-   levels: one
-   folders:
+- title: Sidebar
+  levels: one
+  folders:
 
   - title: Projects
     output: web
     folderitems:
-    - title: Hspice
+    - title: Spice
       url: /hspice.html
       output: web
     - title: Verilog
@@ -72,6 +72,8 @@ entries:
     - title: Software
       url: /software.html
       output: web
+
+
 ################################################################
 
  - title: Sidebar
