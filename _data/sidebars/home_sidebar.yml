@@ -79,7 +79,7 @@ entries:
     - title: Operating Systems
       url: /operating_systems.html
       output: web
-    - title: VLSI CAD : Layout
+    - title: VLSI CAD - Layout
       url: /vlsi_cad_layout.html
       output: web
       
