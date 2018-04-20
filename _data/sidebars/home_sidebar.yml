@@ -8,6 +8,13 @@ entries:
   - title: About
     url: /news.html
     output: web
+    folderitems:
+    - title: About Me
+      url: /aboutme.html
+      output: web
+    - title: About This Blog
+      url: /mydoc_introduction.html
+      output: web
 
 - title: Sidebar
   levels: one
