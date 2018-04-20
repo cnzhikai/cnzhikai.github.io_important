@@ -15,36 +15,7 @@ entries:
       url: /about_this_site.html
       output: web, pdf
 
-  - title: 博客( 中文)
-    output: web, pdf
-    folderitems:
 
-    - title: 生活
-      url: /life_cn.html
-      output: web, pdf
-
-    - title: 书影
-      url: /book_movie_cn.html
-      output: web, pdf
-
-    - title: 旅行
-      url: /travel_cn.html
-      output: web, pdf
-      
-    - title: 评论
-      url: /comments_cn.html
-      output: web, pdf
-      
-    - title: 其他
-      url: /others_cn.html
-      output: web, pdf
-      
-  - title: Blog( English)
-    output: web
-    folderitems:
-
-    - 
-          
   - title: Courses
     output: web
     folderitems:
