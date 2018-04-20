@@ -73,8 +73,12 @@ entries:
     - title: Research Measurement of Sheet-resistance
       url: /research_on_sheet_resistance.html
       output: web
-   
-  - title: Project
+      
+    - title: Neural Network Implementation with FPGA
+      url: /nn-network-fpga.html
+      output: web
+      
+  - title: Projects
     output: web
     folderitems:
 
