@@ -111,3 +111,26 @@ entries:
     - title: Soft Coding
       url: /soft_coding.html
       output: web
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Projects
+    output: web
+    folderitems:
+    - title: Spice
+      url: /spice.html
+      output: web
+    - title: Verilog/VHDL
+      url: /verilog.html
+      output: web
+    - title: Cadence
+      url: /cadence.html
+      output: web
+    - title: Web
+      url: /web.html
+      output: web
+    - title: Soft Coding
+      url: /soft_coding.html
+      output: web
