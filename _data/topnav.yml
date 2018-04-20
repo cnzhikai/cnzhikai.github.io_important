@@ -8,13 +8,13 @@ topnav:
       url: /news_archive.html
 
     - title: Courses
-      url: /courses.html
+      url: /courses_landing_page.html
 
     - title: Research
-      url: /research.html
+      url: /research_landing_page.html
 
     - title: Projects
       url: /projects_landing_page.html
       
     - title: About
-      url: /projects.html
+      url: /about_landing_page.html
