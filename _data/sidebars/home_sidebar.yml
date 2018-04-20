@@ -1,95 +1,54 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 entries:
-- title: Sidebar
-  levels: one
-  folders: about
-  
-  - title: About
+- title: sidebar
+  product: 
+  version: 
+  folders:
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Introduction
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+  - title: Release Notes
+    output: web, pdf
+    folderitems:
+
+    - title: 6.0 Release notes
+      url: /mydoc_release_notes_60.html
+      output: web, pdf
+
+    - title: 5.0 Release notes
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+  - title: Tag archives
     output: web
     folderitems:
-    - title: About Me
-      url: /about_me.html
-      output: web
-    - title: About This Site
-      url: /about_this_site.html
-      output: web
-    - title: Friends Links
-      url: /friends_links.html
+
+    - title: Tag archives overview
+      url: /mydoc_tag_archives_overview.html
       output: web
 
-entries:
-- title: Sidebar
-  levels: one
-  folders: cn_blog
-  - title: 博客（中文）
-    output: web
-    folderitems:
-    - title: 生活
-      url: /life_cn.html
-      output: web
-    - title: 书影
-      url: /book_movie.html
-      output: web
-    - title: 游记
-      url: /travel.html
-      output: web
-    - title: 评论
-      url: /comments.html
-      output: web
-    - title: 照片
-      url: /photos.html
-      output: web
-    - title: 其他
-      url: /others.html
-      output: web
+      subfolders:
+      - title: Tag archive pages
+        output: web
+        subfolderitems:
 
-entries:
-- title: Sidebar
-  levels: one
-  folders: en_blog
-  - title: Blog(English)
-    output: web
-    folderitems:
-    - 
-entries:
-- title: Sidebar
-  levels: one
-  folders: courses
-  - title: Courses
-    output: web
-    folderitems:
-    - title: Writing in the Sciences
-      url: /writing_in_the_sciences.html
-      output: web
-    - title: Understanding Research Methods
-      url: /understanding_research_methods.html
-      output: web
-    - title: Operating Systems
-      url: /operating_systems.html
-      output: web
-    - title: VLSI CAD - Layout
-      url: /vlsi_cad_layout.html
-      output: web
- 
- entries:
-- title: Sidebar
-  levels: one
-  folders: projects
-  - title: Projects
-    output: web
-    folderitems:
-    - title: Spice
-      url: /spice.html
-      output: web
-    - title: Verilog/VHDL
-      url: /verilog.html
-      output: web
-    - title: Cadence
-      url: /cadence.html
-      output: web
-    - title: Web
-      url: /web.html
-      output: web
-    - title: Soft Coding
-      url: /soft_coding.html
-      output: web
+        - title: Formatting pages
+          url: /tag_formatting.html
+          output: web
+
+        - title: Navigation pages
+          url: /tag_navigation.html
+          output: web
+
+        - title: Content types pages
+          url: /tag_content_types.html
+          output: web
