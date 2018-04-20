@@ -1,58 +1,63 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: sidebar
+- title: 
   product: Courses
   version: Updated:2018/04/21
   folders:
-  - title: Overview
+
+  - title: Spice
+    output: web,pdf
+    folderitems:
+    - title: p1
+      url: 
+      output: pdf
+
+    - title: p2
+      url: 
+      output: pdf
+
+  - title: Verilog/VHDL
     output: web, pdf
     folderitems:
 
-  - title: Writing in the Sciences
-    output: web
+    - title: p1
+      url: /p2_landing_page.html
+      output: web
+
+  - title: Cadence
+    output: web, pdf
     folderitems:
 
     - title: P1
-      url: /tag_formatting.html
-      output: web
+      url: 
+      output: web, pdf
 
     - title: P2
-      url: /tag_navigation.html
-      output: web
-      
-  - title: Understanding Research Methods
-    output: web
+      url: 
+      output: web, pdf
+
+  - title: Web
+    output: web, pdf
     folderitems:
 
     - title: P1
-      url: /tag_formatting.html
-      output: web
+      url: 
+      output: web, pdf
 
     - title: P2
-      url: /tag_navigation.html
-      output: web
-      
-   - title: Operating Systems
-    output: web
+      url: 
+      output: web, pdf
+
+  - title: Soft Coding
+    output: web, pdf
     folderitems:
 
     - title: P1
-      url: /tag_formatting.html
-      output: web
+      url: 
+      output: web, pdf
 
     - title: P2
-      url: /tag_navigation.html
-      output: web  
-      
-  - title: VLSI CAD - Layout
-    output: web
-    folderitems:
+      url: 
+      output: web, pdf
 
-    - title: P1
-      url: /tag_formatting.html
-      output: web
-
-    - title: P2
-      url: /tag_navigation.html
-      output: web
