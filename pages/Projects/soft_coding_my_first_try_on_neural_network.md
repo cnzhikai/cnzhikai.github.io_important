@@ -1,7 +1,7 @@
 ---
 title: Installation of TensorFlow on Windows
 audience: 
-tags: [soft-coding, neural-network]
+tags: [soft-coding,neural-network]
 keywords: neural-network
 summary: "This article mainly describes the TensorFlow installation procedure on Windows system, including installation of CUDA and CUDNN."
 last_updated: Oct 10, 2017
@@ -49,7 +49,7 @@ folder: project
 ##### Well down! Enjoy the convenience from TensorFlow by open Jupyter Notebook.
 
 ----------
-### References
+## References
 - http://blog.csdn.net/goodshot/article/details/61926805
 - http://blog.sina.com.cn/s/blog_14935c5880102wu86.html
 
