@@ -53,8 +53,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: P1
-      url: 
+    - title: Installation of TensorFlow on Windows
+      url: /soft_coding_installation_of_tensorflow_on_windows.html
       output: web, pdf
 
     - title: P2
