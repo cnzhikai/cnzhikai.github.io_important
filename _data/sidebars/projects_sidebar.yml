@@ -57,7 +57,7 @@ entries:
       url: /soft_coding_installation_of_tensorflow_on_windows.html
       output: web, pdf
 
-    - title: P2
-      url: 
+    - title: My First Try on Neural Network
+      url: /soft_coding_my_first_try_on_neural_networks.html
       output: web, pdf
 
