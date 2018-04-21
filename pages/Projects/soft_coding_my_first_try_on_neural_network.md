@@ -5,7 +5,7 @@ tags:
 keywords: 
 summary: "We firstly learn some basic principles of neural networks and then build a very simple one-hidden-layer network, with Tensorflow based on MNIST database."
 last_updated: Oct 12, 2017
-sidebar: 
+sidebar: Soft Coding
 permalink: soft_coding_my_first_try_on_neural_networks.html
 folder: project
 ---
