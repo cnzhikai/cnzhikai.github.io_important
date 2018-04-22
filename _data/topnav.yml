@@ -1,10 +1,10 @@
 topnav:
 - title: Topnav
   items:
-    - title: 首页(Homepage)
+    - title: Homepage/首页
       url: /news.html
       
-    - title: 文章归档(Archives)
+    - title: 中文博客
       url: /news_archive.html
 
     - title: Courses
