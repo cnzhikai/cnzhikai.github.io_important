@@ -13,9 +13,9 @@ folder: news
 
 
     <section id="archive">
-        {%for post in site.posts %}
         <h3>{{ post.date | date: '%Y' }}</h3>
         <ul class="past">
+		    {%for post in site.posts %}
             <li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url | remove: "/"}}">{{ post.title }}</a></li>
             {% endfor %}
         </ul>
