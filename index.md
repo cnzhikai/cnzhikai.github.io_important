@@ -1,16 +1,15 @@
 ---
-title: Curriculum Vitae
+title: Zhikai Huang
 sidebar: home_sidebar
 keywords: 
 permalink: index.html
 toc: false
 folder: news
 ---
-Zhikai Huang
-============
 
 とある流浪の浪漫诗人、とある严谨の物理学家
----
+
+
 Education
 ---------
 
