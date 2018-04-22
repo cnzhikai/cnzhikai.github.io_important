@@ -1,28 +1,25 @@
 ---
-title: News
+title: Curriculum Vitae
 sidebar: home_sidebar
-keywords: news, blog, updates, release notes, announcements
+keywords: 
 permalink: index.html
 toc: false
 folder: news
 ---
-Johnny Coder
+Zhikai Huang
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
-
+とある流浪の浪漫诗人、とある严谨の物理学家
+---
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2019 (expected)
+:   **Undergraduate, Electriconics Engineering** - Xi'an Jiaotong University
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+- **Overall GPA: 89.5/100, Rank in Grade: Top 10%** 
+
+- *Relevant Courses: CMOS Digital IC Design, CMOS Analog IC Design, Computer Architecture, Feedback Control Theory*
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
