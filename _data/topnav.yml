@@ -1,8 +1,8 @@
 topnav:
 - title: Topnav
   items:
-    - title: Homepage/首页
-      url: /news.html
+    - title: Homepage
+      url: /index.html
       
     - title: 中文博客
       url: /news_archive.html
