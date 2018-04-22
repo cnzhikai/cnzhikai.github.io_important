@@ -61,3 +61,14 @@ entries:
       url: /soft_coding_my_first_try_on_neural_networks.html
       output: web, pdf
 
+  - title: Semiconductor Devices and Processes
+    output: web, pdf
+    folderitems:
+
+    - title: Parameters Testing of MOSFET and Biopolar Transistor
+      url: /parameters_testing_of_mosfet_and_bipolar_transistor.html
+      output: web, pdf
+
+    - title: Measuring Impurity Distribution and Charges with MOS&Schottky Junction's C-V Characterstic Curve
+      url: /measure_impurity.html
+      output: web, pdf
