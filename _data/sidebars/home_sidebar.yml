@@ -8,11 +8,11 @@ entries:
     folderitems:
 
     - title: About Me
-      url: /about_me.html
+      url: /about_landing_page.html
       output: web, pdf
 
     - title: About This Site
-      url: /about_this_site.html
+      url: /about_landing_page.html
       output: web, pdf
 
 
@@ -21,19 +21,19 @@ entries:
     folderitems:
 
     - title: Writing in the Sciences
-      url: /writing_in_the_sciences.html
+      url: /courses_landing_page.html
       output: web
 
     - title: Understanding Research Methods
-      url: /understanding_research_methods.html
+      url: /courses_landing_page.html
       output: web
       
     - title: Operating Systems
-      url: /operating_systems.html
+      url: /courses_landing_page.html
       output: web
       
     - title: VLSI CAD - Layout
-      url: /vlsi_cad_layout.html
+      url: /courses_landing_page.html
       output: web
       
 
@@ -42,11 +42,11 @@ entries:
     folderitems:
 
     - title: Research Measurement of Sheet-resistance
-      url: /research_on_sheet_resistance.html
+      url: /research_landing_page.html
       output: web
       
     - title: Neural Network Implementation with FPGA
-      url: /nn-network-fpga.html
+      url: /research_landing_page.html
       output: web
       
   - title: Projects
@@ -54,26 +54,26 @@ entries:
     folderitems:
 
     - title: Spice
-      url: /spice.html
+      url: /projects_landing_page.html
       output: web
 
     - title: Verilog/VHDL
-      url: /verilog_vhdl.html
+      url: /projects_landing_page.html
       output: web
       
     - title: Cadence
-      url: /cadence.html
+      url: /projects_landing_page.html
       output: web
       
     - title: Web
-      url: /web.html
+      url: /projects_landing_page.html
       output: web     
       
     - title: Soft Coding
-      url: /soft_coding.html
+      url: /projects_landing_page.html
       output: web
 
     - title: Semiconductor Devices and Processes
-      url: /semiconductor_devices_and_processes.html
+      url: /projects_landing_page.html
       
 
