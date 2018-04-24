@@ -30,7 +30,7 @@ entries:
     folderitems:
 
     - title: P1
-      url: 
+      url: writing_in_the_sciences.html
       output: web, pdf
 
     - title: P2
