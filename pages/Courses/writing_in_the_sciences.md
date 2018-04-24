@@ -27,9 +27,9 @@ folder: courses
 - methodologic
 
 >>EXAMPLE
-
+>
 >This paper reviews the basic principles of cancer biology study design.
-	
+>	
 >This paper reviews cancer biology study design.
 
 ### Don't Use long words or phases that could be short
