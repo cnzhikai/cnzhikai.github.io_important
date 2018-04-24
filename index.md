@@ -6,6 +6,7 @@ permalink: index.html
 toc: false
 folder: news
 ---
+*Here is the **Homepage** of Zhikai's Blog.*
 
 ![](/images/home.jpg)
 
