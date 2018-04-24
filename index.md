@@ -1,5 +1,5 @@
 ---
-title: 
+title: Homepage
 sidebar: home_sidebar
 keywords: 
 permalink: index.html
@@ -8,6 +8,7 @@ folder: news
 ---
 *Here is the **Homepage** of Zhikai's Blog.*
 
+*Especially, visit my **中文博客** by clicking [https://blog.lovehzk.com/news_archive.html](https://blog.lovehzk.com/news_archive.html "here").*
+
 ![](/images/home.jpg)
 
-*Especially, visit my **中文博客** by clicking [https://blog.lovehzk.com/news_archive.html](https://blog.lovehzk.com/news_archive.html "here").*
