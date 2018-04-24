@@ -4,7 +4,7 @@ keywords: projects
 sidebar: projects_sidebar
 toc: false
 permalink: projects_landing_page.html
-folder: product2
+folder: 
 ---
 
 *Welocme to **Projects** Section of my website*   

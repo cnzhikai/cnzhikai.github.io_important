@@ -10,8 +10,6 @@ permalink: writing_in_the_sciences.html
 folder: courses
 ---
 
-
-
 ## Principles of Effective Writing
 
 ### Cut the clutter
@@ -57,7 +55,7 @@ folder: courses
 > Dysregulation of physiologic microRNA (miR) activity has been shown to play an important role in tumor initiation and progression, including gliomagenesis. Therefore, molecular species that can regulate miR activity on their target RNAs without affecting the expression of relevant mature miRs may play equally relevant roles in cancer.
 > 
 >Changes in microRNA expression play a role in cancer, including glioma. Therefore, events that disrupt microRNAsfrom binding to their target RNAsmay also promote cancer.
-
+>
 >Comment: It is unnecessary to use miR to represent microRNA because it is not a key jargon throughout passages, and it makes readers harder to read.
 
 - Avoid uncessary repetitive words or phrases
@@ -67,7 +65,7 @@ folder: courses
 > A robust cell-mediated immune response is necessary, and deficiency in this response predisposes an individual towards active TB.
 > 
 >Deficiency in T-cell-mediated immune response predisposes an individual to active TB.
-
+>
 >Comment: Unnessary repetition will make sentence long and boring, try to avoid repetition.
 
 - Some adverbs can be released
@@ -81,7 +79,7 @@ folder: courses
 > She did not want to perform the experiment incorrectly.
 > 
 > She wanted to perform the experiment correctly.
-
+>
 >Comment: Eliminating negatives enables readers better understand.
 
 - Eliminate superfluous uses of "there are/there is"
