@@ -1,9 +1,9 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: 
+- title: Courses
   product: Courses
-  version: Updated:2018/04/21
+  version: 
   folders:
 
   - title: Writing in the Sciences
@@ -11,7 +11,7 @@ entries:
     folderitems:
     - title: Course Summary
       url: /writing_in_the_sciences.html
-      output: web
+      output: web,pdf
 
   - title: Understanding Research Methods
     output: web, pdf
