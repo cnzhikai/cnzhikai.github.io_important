@@ -1,5 +1,5 @@
 ---
-title: Summary - Writing in the sciences(Stanford University)
+title: Writing in the sciences
 audience: 
 tags: 
 keywords: 
