@@ -2,51 +2,22 @@
 
 entries:
 - title: 
-  product: Courses
-  version: Updated:2018/04/21
+  product: Research
+  version: 
   folders:
 
-  - title: Writing in the Sciences
+  - title: Research Measurement of Sheet-resistance
     output: web,pdf
     folderitems:
     - title: p1
       url: 
       output: pdf
 
-    - title: p2
-      url: 
-      output: pdf
-
-  - title: Understanding Research Methods
+  - title: Neural Network Implementation with FPGA
     output: web, pdf
     folderitems:
 
     - title: p1
       url: /p2_landing_page.html
       output: web
-
-
-  - title: Operating Systems
-    output: web, pdf
-    folderitems:
-
-    - title: P1
-      url: 
-      output: web, pdf
-
-    - title: P2
-      url: 
-      output: web, pdf
-
-  - title: VLSI CAD - Layout
-    output: web, pdf
-    folderitems:
-
-    - title: P1
-      url: 
-      output: web, pdf
-
-    - title: P2
-      url: 
-      output: web, pdf
 
