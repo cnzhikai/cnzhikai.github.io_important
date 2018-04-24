@@ -9,13 +9,9 @@ entries:
   - title: Writing in the Sciences
     output: web,pdf
     folderitems:
-    - title: p1
-      url: 
-      output: pdf
-
-    - title: p2
-      url: 
-      output: pdf
+    - title: Course Summary
+      url: writing_in_the_sciences.html
+      output: web
 
   - title: Understanding Research Methods
     output: web, pdf
