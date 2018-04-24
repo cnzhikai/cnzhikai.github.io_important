@@ -1,5 +1,5 @@
 ---
-title: Summary: Writing in the sciences(Stanford University)
+title: Summary - Writing in the sciences(Stanford University)
 audience: 
 tags: 
 keywords: 
@@ -9,6 +9,9 @@ sidebar: courses_sidebar
 permalink: writing_in_the_sciences.html
 folder: courses
 ---
+
+This is a brief summary of the Coursera online course ***Writing in the Sciences*** from Stanford univerity. This course mainly discusses ways to make scientific writing better and more effective.
+
 
 ## Principles of Effective Writing
 
