@@ -14,5 +14,5 @@ entries:
       output: web,pdf
       
     - title: Principles of Effective Writing
-      url: sci_writing_introduction.html
+      url: principles_of_effective_writing.html
       output: web,pdf      

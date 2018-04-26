@@ -9,8 +9,8 @@ entries:
   - title: Writing in the Sciences
     output: web,pdf
     folderitems:
-    - title: Course Summary
-      url: writing_in_the_sciences.html
+    - title: View
+      url: sci_writing_introduction.html
       output: web,pdf
 
   - title: Understanding Research Methods
