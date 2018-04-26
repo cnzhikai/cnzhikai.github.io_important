@@ -40,7 +40,7 @@ exclude:
 feedback_email: cnzhikai@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
-feedback_disable: false
+feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
