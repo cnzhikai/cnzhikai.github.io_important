@@ -13,7 +13,7 @@ entries:
       url: sci_writing_introduction.html
       output: web,pdf
  
-  - title: Part I: Principles of Effective Writing
+  - title: Part I Principles of Effective Writing
     output: web,pdf
     folderitems:
     - title: view
