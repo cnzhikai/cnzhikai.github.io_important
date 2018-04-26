@@ -9,15 +9,15 @@ permalink: principles_of_effective_writing.html
 folder: courses
 ---
 
-## Cut the clutters
+## 1 Cut the clutters
 
 > *I have only made this letter rather long because I have not had time to make it shorter.” (“Je n'aifait celle-ciplus longue queparcequeje n'aipas eule loisirde la faire plus courte.”)*
 > 
 > By L ettresprovinciales, 16, Dec.14,1656
 
-### Common clutters in writing
+### 1.1 Common clutters in writing
 
-#### 1 Dead weight words and phrases
+#### 1.1.1 Dead weight words and phrases
 
 Like ***as it is well known, as it has been shown, it can be regarded that, it should be emphasized that…***
 
@@ -27,7 +27,7 @@ One sentence change example:
 
 [Changed] Increased athletic activity lowers cardiovascular risk and blood pressure, and improves fitness.
 
-#### 2 Empty words and phrases
+#### 1.1.2 Empty words and phrases
 
 Like ***basic tenets of, methodologic, important…***
 
@@ -37,7 +37,7 @@ One sentence change example:
 
 [Changed] This paper reviews cancer biology study design, using examples that illustrate specific challenges and solutions.
 
-#### 3 Long words and phrases that could be short
+#### 1.1.3 Long words and phrases that could be short
 
 Like a ***majority of (most), a number of (many), are of the same opinion (agree), less frequently occurring (rare), all three of the (the three), give rise to (cause), due to the fact that (because), have an effect on (affect), based on the assumption that (if)…***
 
@@ -47,7 +47,7 @@ One sentence change example:
 
 [Changed] The expected prevalence of mental retardation, if intelligence is normally distributed, is 2.5%.
 
-#### 4 Unnecessary jargon and acronyms
+#### 1.1.4 Unnecessary jargon and acronyms
 
 Unless generally-known, avoid, or at lest not to overuse the jargon and acronyms to make your scientific writing more understandable.
 
@@ -57,7 +57,7 @@ One sentence change example: (note the miR to microRNA)
 
 [Changed] Changes in microRNA expression play a role in cancer, including glioma. Therefore, events that disrupt microRNAs from binding to their target RNAs may also promote cancer.
 
-#### 5 Repetitive words or phrases
+#### 1.1.5 Repetitive words or phrases
 
 Like ***studies/examples, illustrate/demonstrate, challenges/difficulties, successful solutions…***
 
@@ -69,9 +69,9 @@ One sentence change example: (note the repetition of responses)
 
 [Changed] Deficiency in T-cell-mediated immune response predisposes an individual to active TB.
 
-### More tricks to cut the clutters
+### 1.2 More tricks to cut the clutters
 
-#### 1 Eliminate negatives. 
+#### 1.2.1 Eliminate negatives. 
 
 Whenever you encounter a negative in your writing, see if you can turn it to positive. The positive makes the structure clear and easier to read.
 
@@ -81,7 +81,7 @@ One sentence change example: (note the repetition of responses)
 
 [Changed] They believed the drug was safe.
 
-#### 2 Eliminate “Boring There Be”
+#### 1.2.2 Eliminate “Boring There Be”
 
 After replacing “There be”, you will have an exciting verb! This makes your writing various and fluent to read.
 
@@ -91,13 +91,13 @@ One sentence change example:
 
 [Changed] Bacteria lined the plate.
 
-## Use the active voice
+## 2 Use the active voice
 
 > *Use active voice when suitable, particularly when necessary for correct syntax (e.g., "To address this possibility, we constructed a λZap library . . .," not "To address this possibility, a λZap library was constructed . . .").*
 > 
 > By Some Notes on Science Style, Science Magazine
 
-### Advantages to use active voice
+### 2.1 Advantages to use active voice
 
 1.  Emphasizes author responsibility – Places more emphasis of author’s role on decisions.
 
@@ -105,7 +105,7 @@ One sentence change example:
 
 3. Reduce ambiguity – Indicates the subject clearly.
 
-### Tips of active voice's using
+### 2.2 Tips of active voice's using
 
 1. It is also OK to use passive voice, but use it sparingly and purposefully.
 
@@ -113,7 +113,7 @@ One sentence change example:
 
 3. Some lecturer may give advice to you not using “We” or “I” in your scientific writhing, however, it is not a good advice. With so many benefits, as well as advice from some famous magazines or journals (Science Magazine for example), active voice is OK in your scientific writhing.
 
-### Practice: use the active voice
+### 2.3 Practice: use the active voice
 
 One sentence change example: 
 
@@ -128,9 +128,9 @@ One sentence change example:
 [Changed] NASA's Hubble Space Telescope has taken the first visible-light snapshot of a planet circling another star.
 
 
-## Write with verbs
+## 3 Write with verbs
 
-### Use strong verbs
+### 3.1 Use strong verbs
 
 Verbs make sentence go, they drive readers continue to read, and make writing lively. An appropriate pick of verb makes your writing better. But how? Here are two advice, avoid adverbs and “there be”. When you are trying to ***avoid adverbs and “there be structure”***, you are actually proceeding to write with strong verbs.
 
@@ -141,7 +141,7 @@ One sentence change example: (note that reports approximately can be replaced by
 [Changed] The WHO estimates that two-thirds of the world’s diabetics are found in developing countries, and projects that the number of diabetics in these countries will double in the next 25 years.
 
 
-### Don't turn verbs into nuns, or let weak verbs replace strong verbs
+### 3.2 Don't turn verbs into nuns, or let weak verbs replace strong verbs
 
 First, when you have a choice to decide whether using a noun or a verb with similar meaning, don’t hesitate to choose verb. Verb makes your writing smoother to read, and leave reads deeper impression. Second, don’t let boring verb boring nouns replace the strong verb. For example, use the latter one instead of the former one in the following parts, ***obtain estimates of/estimate, has seen an expansion in/has expanded, provides a methodologic emphasis/emphasizes methodology, take an assessment of/assess, provide a review of/review, offer confirmation of/confirm, make a decision/decide, show a peak/peaks, provide a description of/describe.***
 
@@ -157,7 +157,7 @@ One sentence change example: (do not let nouns replace verbs)
 
 [Changed] During DNA damage, H3K4me3 recruits ING2 and Sin3/HDAC, which together repress cell proliferation genes.
 
-### Don't bury the main verb
+### 3.3 Don't bury the main verb
 
 Keep the subject and the main verb (predicate) close together at the start of the sentence, because only seeing the predicate can readers know where the sentence is going and understand the meaning you are expressing.
 
