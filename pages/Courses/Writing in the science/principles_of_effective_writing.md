@@ -93,7 +93,7 @@ One sentence change example:
 
 ## Use the active voice
 
-> *Use active voice when suitable, particularly when necessary for correct syntax (e.g., "To address this possibility, we constructed a λZap library . . .," not "To address this possibility, a λZap library was constructed . . .").  *
+> *Use active voice when suitable, particularly when necessary for correct syntax (e.g., "To address this possibility, we constructed a λZap library . . .," not "To address this possibility, a λZap library was constructed . . .").*
 > 
 > By Some Notes on Science Style, Science Magazine
 

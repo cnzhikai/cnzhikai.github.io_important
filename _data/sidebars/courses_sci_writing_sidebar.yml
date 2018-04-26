@@ -6,13 +6,17 @@ entries:
   version: 
   folders:
 
-  - title: Course Full Contents
+  - title: Overview
     output: web,pdf
     folderitems:
-    - title: Introduction
+    - title: view
       url: sci_writing_introduction.html
       output: web,pdf
-      
-    - title: Principles of Effective Writing
+ 
+  - title: Part I: Principles of Effective Writing
+    output: web,pdf
+    folderitems:
+    - title: view
       url: principles_of_effective_writing.html
-      output: web,pdf      
+      output: web,pdf
+  
