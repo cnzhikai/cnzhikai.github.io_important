@@ -4,7 +4,7 @@ audience:
 tags: 
 keywords: 
 last_updated: Apr 26, 2018
-sidebar: sci_writing_sidebar
+sidebar: courses_sci_writing_sidebar
 permalink: principles_of_effective_writing.html
 folder: courses
 ---
