@@ -1,12 +1,12 @@
 ---
-title: Writing in the sciences
+title: Introduction
 audience: 
 tags: 
 keywords: 
 summary: "This is a brief summary of the Coursera online course 'Writing in the Sciences' from Stanford univerity. This course mainly discusses ways to make scientific writing better and more effective."
 last_updated: Apr 24, 2018
 sidebar: courses_sidebar
-permalink: writing_in_the_sciences.html
+permalink: sci_writing_introduction.html
 folder: courses
 ---
 
