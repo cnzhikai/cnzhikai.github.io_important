@@ -15,7 +15,7 @@ folder: courses
 
 ![](/pages/Projects/Hspice/spice_analysis_of_amplifiers/A1_1.eps)
 
-![](/pages/Projects/Hspice/spice_analysis_of_amplifiers/a1.png)
+![](/pages/Projects/Hspice/spice_analysis_of_amplifiers/A1_Page_01.jpg)
 
 <div align="center"><img width="65" height="75" src=""/pages/Projects/Hspice/spice_analysis_of_amplifiers/A1_1.eps></div>
 
