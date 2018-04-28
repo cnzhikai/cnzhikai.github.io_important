@@ -15,8 +15,8 @@ folder: courses
 
 #### 1.1.1 The semicolon connects two independent clauses
 
-A clause is a unit of grammatical organization just below a sentence in rank; it always contains a subject and predicate. ***The semicolon makes two clauses stand out from each other, but do not lose potential connection.**
-*
+A clause is a unit of grammatical organization just below a sentence in rank; it always contains a subject and predicate. ***The semicolon makes two clauses stand out from each other, but do not lose potential connection.***
+
 One sentence change example:
 
 [Example]Kennedy could be a cold and vain man, and he led a life of privilege. But he knew something about the world; he also cared about it. 

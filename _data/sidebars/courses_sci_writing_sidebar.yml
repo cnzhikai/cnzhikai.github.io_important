@@ -27,3 +27,9 @@ entries:
       url: from_punctuation_to_paragraph.html
       output: web,pdf
     
+  - title: Part III Writing Process
+    output: web,pdf
+    folderitems:
+    - title: view
+      url: writing_process.html
+      output: web,pdf    
