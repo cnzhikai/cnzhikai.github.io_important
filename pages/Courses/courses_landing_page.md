@@ -10,6 +10,6 @@ permalink: courses_landing_page.html
 
 What you are viewing here are selected courses I took, ***most*** of them are certificated online courses. I took these courses mainly for enriching my knowledge scope and further enchaning ability.
 
-See sidebar to navigate all projects and pick ones you like.
+See sidebar to navigate all courses and pick ones you like.
 
 ![](images/courses/landing_page.jpg)
