@@ -145,6 +145,7 @@ A bondsman has these and only these options:
 In this case,
 1. Grace period nearly done without arrest.
 2. No collaterol, no indemnitors.
+3. 
 ∴ Green (the bondswoman) will be responsible for the $31,000.
 
 [Analyse: Emphasis at the end]
