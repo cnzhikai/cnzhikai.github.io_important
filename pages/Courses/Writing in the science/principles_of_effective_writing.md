@@ -61,8 +61,6 @@ One sentence change example: (note the miR to microRNA)
 
 Like ***studies/examples, illustrate/demonstrate, challenges/difficulties, successful solutions…***
 
-Like studies/examples, illustrate/demonstrate, challenges/difficulties, successful solutions…
-
 One sentence change example: (note the repetition of responses)
 
 [Original] A robust cell-mediated immune response is necessary, and deficiency in this response predisposes an individual towards active TB. 

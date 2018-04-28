@@ -20,3 +20,10 @@ entries:
       url: principles_of_effective_writing.html
       output: web,pdf
   
+  - title: Part II From Punctuations to Paragraph
+    output: web,pdf
+    folderitems:
+    - title: view
+      url: from_punctuation_to_paragraph.html
+      output: web,pdf
+    
