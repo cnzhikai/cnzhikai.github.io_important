@@ -13,6 +13,10 @@ folder: courses
 
 ## 1.1 Theoretical Analysis
 
+![](/pages/Projects/Hspice/spice_analysis_of_amplifiers/A1_1.eps)
+
+![](/pages/Projects/Hspice/spice_analysis_of_amplifiers/a1.png)
+
 <div align="center"><img width="65" height="75" src=""/pages/Projects/Hspice/spice_analysis_of_amplifiers/A1_1.eps></div>
 
 Assume the threshold voltage of NMOS and PMOS is 500mV. Because the gain of this amplifier is small, the input voltage defines the range of input that makes both two transistors works at saturation region, and the output range can be obtained from the input range.
